@@ -130,6 +130,7 @@ $$
    c & d
 \end{Bmatrix}
 $$
+
 $$
 \begin{CD}
    A @>a>> B \\
