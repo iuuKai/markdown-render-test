@@ -242,3 +242,6 @@ Note right of C: 没人陪我玩
 
 - [ ] todo list item 1
 - [x] todo list item 2
+
+123123
+- 123123 <input type="checkbox" id="" disabled class="task-list-item-checkbox">
