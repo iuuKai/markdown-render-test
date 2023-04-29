@@ -250,3 +250,9 @@ Note right of C: 没人陪我玩
 
 
 <img src="/x" onerror="alert('not happening')">
+
+<style>
+h1,h2,h3,h4,h5,h6 {
+    background: red;
+}
+</style>
