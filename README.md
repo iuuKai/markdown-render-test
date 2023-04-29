@@ -247,3 +247,6 @@ Note right of C: 没人陪我玩
 - 123123 <input type="checkbox" id="" disabled class="task-list-item-checkbox">
 
 <input type="checkbox" id="" disabled="" class="task-list-item-checkbox">
+
+
+<img src="x" onerror="alert('not happening')">
