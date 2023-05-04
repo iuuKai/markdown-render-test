@@ -96,7 +96,20 @@ $(document).ready(function () {
 
 ![百度 图标](https://www.baidu.com/img/flexible/logo/pc/result.png "BAIDU")
 
-<img src="https://www.baidu.com/img/flexible/logo/pc/result.png" onload="alert('hello')" data-id="dddddddd" id="test" class="wwwww" name="fffff" index="111" value="44412312" alt="hiaaaa" title="asdasdasdasd" />
+<img src="https://www.baidu.com/img/flexible/logo/pc/result.png" 
+align="middle"
+loading="lazy"
+alt="hiaaaa"
+border="2"
+crossorigin="anonymous"
+height="100"
+width="100"
+hspace="2"
+ismap="ismap"
+longdesc="xxx.doc"
+usemap="#mapname"
+vspace="2"
+onload="alert('hello')" data-id="dddddddd" id="test" class="wwwww" name="fffff" index="111" value="44412312" title="asdasdasdasd" />
 
 [1]: https://www.baidu.com/img/flexible/logo/pc/result.png
 
