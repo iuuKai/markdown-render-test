@@ -121,6 +121,7 @@ ismap="ismap"
 longdesc="xxx.doc"
 usemap="#mapname"
 vspace="2"
+     style="display: block;background:red"
 onload="alert('hello')" data-id="dddddddd" id="test" class="wwwww" name="fffff" index="111" value="44412312" title="asdasdasdasd" />
 
 [1]: https://www.baidu.com/img/flexible/logo/pc/result.png
