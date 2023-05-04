@@ -96,7 +96,8 @@ $(document).ready(function () {
 
 ![百度 图标](https://www.baidu.com/img/flexible/logo/pc/result.png "BAIDU")
 
-<img src="https://www.baidu.com/img/flexible/logo/pc/result.png" 
+<img id="demo" class="foo"
+src="https://www.baidu.com/img/flexible/logo/pc/result.png" 
 align="middle"
 loading="lazy"
 alt="hiaaaa"
