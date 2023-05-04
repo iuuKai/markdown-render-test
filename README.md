@@ -88,7 +88,7 @@ $(document).ready(function () {
 
 <https://www.baidu.com>
 <www.baidu.com>
-<https.baidu.com>
+<http:baidu.com>
 <httpsbaidu.com>
 
 [高级链接]: https://www.baidu.com
