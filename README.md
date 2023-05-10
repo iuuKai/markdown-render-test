@@ -310,7 +310,7 @@ D(x) = \begin{cases}
 $$
 
 $$
-\int \frac{1}{\sqrt{1-x^{2}}}\mathrm{d}x= \arcsin x +C \begin{array}{c} 
+\int\frac{1}{\sqrt{1-x^{2}}}\mathrm{d}x= \arcsin x +C \begin{array}{c} 
   S= \binom{N}{n},A_{k}=\binom{M}{k}\cdot \binom{N-M}{n-k} \\ 
   P\left ( A_{k}\right ) = \frac{\binom{M}{k}\cdot \binom{N-M}{n-k}}{\binom{N}{n}} 
 \end{array}
