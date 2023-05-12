@@ -213,8 +213,7 @@ cond(yes)->io(bottom)->e
 cond(no)->sub1(right)->op
 ```
 
-```mermaid
-sequenceDiagram
+```sequence
 对象A->对象B: 对象B你好吗?（请求）
 Note right of 对象B: 对象B的描述
 Note left of 对象A: 对象A的描述(提示)
@@ -222,8 +221,7 @@ Note left of 对象A: 对象A的描述(提示)
 对象A->对象B: 你真的好吗？
 ```
 
-```mermaid
-sequenceDiagram
+```sequence
 Title: 标题：复杂使用
 对象A->对象B: 对象B你好吗?（请求）
 Note right of 对象B: 对象B的描述
