@@ -1,3 +1,11 @@
+[aaa](aaa)
+[bbb](/bbb)
+[ccc](./ccc)
+[ddd](../ddd)
+[eee](//eee.com)
+[fff](../../fff)
+[ggg](http://www.ggg.com)
+
 <h1 title="demo" alt="ffff" name="asd" valign="top" align="center" style="color: red" width="500" height="100">test</h1>
 <h4>h4</h4>
 <h2>test</h2>
